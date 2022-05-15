@@ -1,7 +1,7 @@
 ### supervised-machine-learning-challenge
 # Predicting Credit Risk
 
-### This assignment was to build a machine learning model to attempted to predit whether a loan from Lending Club will become high risk or not.
+### This assignment was to build a machine learning model to attempted to predict whether a loan from Lending Club will become high risk or not.
 ----------------------------
 ----------------------------
 
